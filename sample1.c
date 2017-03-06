@@ -2,8 +2,8 @@
 #include<conio.h>
 main()
 {
-a=10;
-b=30;
+a=100;
+b=500;
 c=b-a;
 printf("Difference is %d - %d is %d",b, a, c);
 getch();
